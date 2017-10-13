@@ -1,12 +1,3 @@
-# Spring 2017 NLP HW4
-Name: Qipeng Chen
-UNI: qc2201
-
-Note:
-
-- All the trained models were moved to `output` directory.
-- This doc is written in markdown.
-
 Best score: 30.7737948678 with beam search and attention, 256d/256d, beam size 5.
 
 Usage:
